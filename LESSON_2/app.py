@@ -42,4 +42,4 @@ print(multi_line_string)
 course = 'Python for Beginners'
 print(course[0])  ## Prints the charcter at position zero "P"
 print(course[-1]) ## Prints the charcter at last position
-print(course[1:4]) ## Prints the charcters from last postion till the third position but not the one at position -4 "ers"
+print(course[1:4]) ## Prints the charcters from last postion till the third position but not the one at position -4 "ers"+-
