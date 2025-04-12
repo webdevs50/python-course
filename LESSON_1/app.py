@@ -36,4 +36,4 @@ patient_name = 'John Smith'
 age = 20
 is_new = True
 
-print('We check in a patient named ' + patient_name + '. He\'s' + age)
+print('We check in a patient named ' + patient_name)
